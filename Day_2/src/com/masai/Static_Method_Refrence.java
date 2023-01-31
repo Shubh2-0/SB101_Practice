@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /* we can use method references in the place of LAMBDA EXPRESSION because its
  provide more simplicity to write our code 
  in the method references basically we use those method which
- are already denied by any class.
+ are already defined by any class.
  instead write a logic or a code we can use predefined method 
  if the return type and parameters are same as Functional interface method 
  */
